@@ -1,7 +1,7 @@
 ---
-title: "Development Member"
+title: "Developer"
 description: "Interhall GC Opensoft"
-dateString: Sep 2022 - Ongoing
+dateString: Mar 2023 - Apr 2023
 draft: false
 tags: ["Python", "Javascript", "Kubernetes", "Docker", "AWS", "NextJS", "Django REST Framework","PostgreSQL", "Redis"]
 showToc: false
@@ -16,4 +16,6 @@ weight: 301
 - Built frontend applications using **NextJS** and **Mantine UI**    library for our platform for payment and analysis.
 - Created REST API’s using **Django Rest Framework** and utilized **RabbitMQ** for keeping microservices in sync.
 
-![](/experience/16bit/img1.jpeg#center)
+![](/experience/16bit/opensoft1.png#center)
+![](/experience/16bit/opensoft2.png#center)
+![](/experience/16bit/opensoft3.png#center)
