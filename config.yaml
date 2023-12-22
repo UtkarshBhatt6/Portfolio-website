@@ -50,7 +50,7 @@ params:
     enabled: true
     title: "Utkarsh Bhatt"
     subtitle: Hi 👋! I'm Utkarsh, an ambitious software developer. Currently pursuing my B.Tech in Electrical Engineering at the esteemed [**Indian Institute of Technology, Kharagpur**](https://www.iitkgp.ac.in/), I bring a solid foundation in Software Engineering with professional experience. I am captivated by the realm of Cloud Computing and DevOps practices, seeking to revolutionize how we deploy applications in the modern era. To enhance my expertise, I have done various certification courses from udemy and kodekloud , further bolstering my skills in the cloud computing domain. My unwavering curiosity and drive push me to explore fresh avenues to redefine technological frontiers.
-    imageUrl: "home/formal-pic-small.jpeg"
+    imageUrl: "home/profile_pic.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
